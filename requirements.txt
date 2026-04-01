@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+python-docx
+spacy<3.8.0
+scikit-learn
+plotly
+google-generativeai
+python-dotenv
